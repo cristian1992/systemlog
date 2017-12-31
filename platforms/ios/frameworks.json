@@ -1,8 +1,12 @@
 {
     "ImageIO.framework": 1,
     "CoreLocation.framework": 1,
+<<<<<<< HEAD
     "AVFoundation.framework": 2,
     "libiconv.dylib": 1,
     "CoreVideo.framework": 1,
     "QuartzCore.framework": 1
+=======
+    "AVFoundation.framework": 1
+>>>>>>> 25eb985fde3894d4b618db4a3614812d54baeacf
 }

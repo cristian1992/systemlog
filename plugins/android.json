@@ -12,12 +12,15 @@
     },
     "cordova-plugin-camera": {
       "PACKAGE_NAME": "com.example.hello"
+<<<<<<< HEAD
     },
     "cordova-plugin-file-transfer": {
       "PACKAGE_NAME": "com.example.hello"
     },
     "cordova-plugin-barcodescanner": {
       "PACKAGE_NAME": "com.example.hello"
+=======
+>>>>>>> 25eb985fde3894d4b618db4a3614812d54baeacf
     }
   },
   "dependent_plugins": {

@@ -14,6 +14,7 @@
     },
     "is_top_level": true,
     "variables": {}
+<<<<<<< HEAD
   },
   "cordova-plugin-file-transfer": {
     "source": {
@@ -70,5 +71,7 @@
     },
     "is_top_level": true,
     "variables": {}
+=======
+>>>>>>> 25eb985fde3894d4b618db4a3614812d54baeacf
   }
 }
