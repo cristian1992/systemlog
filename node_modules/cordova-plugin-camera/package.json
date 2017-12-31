@@ -7,8 +7,8 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/apache/cordova-plugin-camera.git",
-    "rawSpec": "https://github.com/apache/cordova-plugin-camera.git",
+    "raw": "git+https://github.com/apache/cordova-plugin-camera.git",
+    "rawSpec": "git+https://github.com/apache/cordova-plugin-camera.git",
     "saveSpec": "git+https://github.com/apache/cordova-plugin-camera.git",
     "fetchSpec": "https://github.com/apache/cordova-plugin-camera.git",
     "gitCommittish": "master"
@@ -18,7 +18,7 @@
     "/"
   ],
   "_resolved": "git+https://github.com/apache/cordova-plugin-camera.git#67718544a80acb061fade30d8e663156369d0edb",
-  "_spec": "https://github.com/apache/cordova-plugin-camera.git",
+  "_spec": "git+https://github.com/apache/cordova-plugin-camera.git",
   "_where": "C:\\xampp\\htdocs\\trabajo",
   "author": {
     "name": "Apache Software Foundation"
