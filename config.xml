@@ -28,6 +28,7 @@
     <plugin name="cordova-plugin-camera" spec="https://github.com/apache/cordova-plugin-camera.git" />
     <plugin name="phonegap-plugin-barcodescanner" spec="https://github.com/phonegap/phonegap-plugin-barcodescanner.git">
         <variable name="CAMERA_USAGE_DESCRIPTION" value=" " />
-         <plugin name="cordova-plugin-file-transfer" spec="^1.7.0" />
+
+         <plugin name="cordova-plugin-file-transfer" spec="~1.6.1" source="npm"/>
     </plugin>
 </widget>
