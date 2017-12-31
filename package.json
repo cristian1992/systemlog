@@ -13,12 +13,16 @@
         "cordova-android": "^7.0.0",
         "cordova-ios": "^4.5.4",
         "cordova-plugin-camera": "git+https://github.com/apache/cordova-plugin-camera.git",
-        "cordova-plugin-whitelist": "^1.3.3"
+        "cordova-plugin-whitelist": "^1.3.3",
+        "phonegap-plugin-barcodescanner": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
     },
     "cordova": {
         "plugins": {
             "cordova-plugin-whitelist": {},
-            "cordova-plugin-camera": {}
+            "cordova-plugin-camera": {},
+            "phonegap-plugin-barcodescanner": {
+                "CAMERA_USAGE_DESCRIPTION": " "
+            }
         },
         "platforms": [
             "ios",
