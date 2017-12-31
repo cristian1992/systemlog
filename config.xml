@@ -25,4 +25,7 @@
     </platform>
     <engine name="ios" spec="~4.5.4" />
     <engine name="android" spec="~7.0.0" />
+    <plugin name="cordova-plugin-camera" spec="https://github.com/apache/cordova-plugin-camera.git" />
+    <plugin name="cordova-plugin-file-transfer" spec="^1.7.0" />
+    <plugin name="cordova-plugin-barcodescanner" spec="^0.7.0-21" />
 </widget>
