@@ -12,13 +12,22 @@
     "dependencies": {
         "cordova-android": "^7.0.0",
         "cordova-ios": "^4.5.4",
+        "cordova-plugin-barcodescanner": "^0.7.0-21",
         "cordova-plugin-camera": "git+https://github.com/apache/cordova-plugin-camera.git",
-        "cordova-plugin-whitelist": "^1.3.3"
+        "cordova-plugin-compat": "^1.2.0",
+        "cordova-plugin-file": "^5.0.0",
+        "cordova-plugin-file-transfer": "^1.7.0",
+        "cordova-plugin-ionic-keyboard": "^2.0.5",
+        "cordova-plugin-whitelist": "^1.3.3",
+        "ionic-plugin-keyboard": "^2.2.1",
+        "phonegap-plugin-barcodescanner": "git+https://github.com/wildabeast/BarcodeScanner.git"
     },
     "cordova": {
         "plugins": {
             "cordova-plugin-whitelist": {},
-            "cordova-plugin-camera": {}
+            "cordova-plugin-camera": {},
+            "cordova-plugin-file-transfer": {},
+            "cordova-plugin-barcodescanner": {}
         },
         "platforms": [
             "ios",
